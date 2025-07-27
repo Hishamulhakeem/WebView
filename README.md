@@ -43,7 +43,4 @@ This project is for educational purposes. Feel free to fork and expand it.
 
 ---
 
-You can paste this into a file named `README.md` in the root of your GitHub repo.
-
-Would you like me to generate a `.gitignore` file or help with GitHub upload steps too?
 
